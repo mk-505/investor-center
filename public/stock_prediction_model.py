@@ -10,7 +10,6 @@ from keras import layers
 import os
 import pickle
 
-# Rest of your code...
 
 # Load dataset
 for dirname, _, filenames in os.walk('new_york_stock_exchange'):
