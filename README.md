@@ -63,6 +63,8 @@ Stock market data is fetched in real-time using the [Polygon.io](https://polygon
 - [Polygon.io](https://polygon.io) for financial data  
 - [Hugging Face](https://huggingface.co) for AI model APIs
 
+[**Test it Out!**](https://investor-center-nine.vercel.app/)
+
 ---
 
 ## 👤 Author
