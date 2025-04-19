@@ -47,31 +47,6 @@ Stock market data is fetched in real-time using the [Polygon.io](https://polygon
 
 ---
 
-## 🧪 Getting Started
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/investor-center.git
-cd investor-center
-```
-
-2. **Install Dependencies & Set Up API Keys**
-
-- Create a `.env` file and add your API keys:
-
-```env
-POLYGON_API_KEY=your_polygon_key
-HUGGINGFACE_API_KEY=your_huggingface_key
-```
-
-3. **Run the Application**
-
-- If using a Node.js or Python environment, follow the framework-specific startup process (e.g. `npm start`, `python app.py`, etc.)
-- Ensure the model files are in the correct directory (`models/` or as specified in your codebase)
-
----
-
 ## 📚 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript (Framework-agnostic)
